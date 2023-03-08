@@ -8,16 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2021 - To: 05 March 2023
+From: 24 November 2021 - To: 06 March 2023
 
-Total Time: 125 hrs 33 mins
+Total Time: 127 hrs 20 mins
 
-Java             106 hrs 46 mins █████████████████████▒░░░   85.04 %
-Markdown         8 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Text             3 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JavaScript       2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-XML              2 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-GitIgnore file   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Java             107 hrs 53 mins █████████████████████▒░░░   84.72 %
+Markdown         9 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Text             3 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+JavaScript       2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+XML              2 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+GitIgnore file   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
