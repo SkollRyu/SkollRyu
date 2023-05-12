@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **My EXAMMMMMMMMMMM*
+- 🔭 I’m currently working on **My EXAMMMMMMMMMMM**
 - 🌱 I’m currently learning **Operating System, Computer Network, Machine Learning**
 - 💬 Ask me about **(My brain is empty)**
 - 📫 How to reach me: **LinkedIn**
