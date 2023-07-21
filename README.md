@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2021 - To: 17 July 2023
+From: 24 November 2021 - To: 19 July 2023
 
-Total Time: 227 hrs 46 mins
+Total Time: 228 hrs 23 mins
 
-Java                    153 hrs 24 mins █████████████████░░░░░░░░   67.35 %
-Python                  25 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Markdown                18 hrs 47 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-JavaScript              9 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Java                    153 hrs 24 mins ████████████████▓░░░░░░░░   67.17 %
+Python                  25 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+Markdown                19 hrs 24 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+JavaScript              9 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 Bash                    5 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
